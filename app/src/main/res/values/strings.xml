@@ -28,4 +28,8 @@
 
     <string name="button_first_descendant_activity1">Go To Sibling Activity</string>
     <string name="button_first_descendant_activity2">I Do Nothing</string>
+
+    <string name="image_view_description_second_descendant_activity">This is a description of an image</string>
+
+    <string name="toast_message">Click!</string>
 </resources>
