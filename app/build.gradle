@@ -4,6 +4,8 @@ android {
     compileSdkVersion 30
     buildToolsVersion "30.0.1"
 
+    android.defaultConfig.vectorDrawables.useSupportLibrary = true
+
     defaultConfig {
         applicationId "com.workshopandroid"
         minSdkVersion 19

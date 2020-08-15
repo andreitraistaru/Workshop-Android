@@ -10,5 +10,22 @@
     
     <string name="button_main_activity">Save</string>
     
-    <string name="snackbar_message">Hello world using a Snackbar!</string>
+    <string name="snackbar_message">Hello world from a Snackbar!</string>
+
+    <string name="drawer_header">Hello world from drawer\'s header!</string>
+    <string name="drawer_header_image_description">This is a description of an image</string>
+
+    <string name="drawer_item1">Start Descendant 1</string>
+    <string name="drawer_item2">Start Descendant 2</string>
+    <string name="drawer_group2">External Activities</string>
+    <string name="drawer_item3">Start Google Maps</string>
+
+    <string name="drawer_toggle_open">Open</string>
+    <string name="drawer_toggle_close">Close</string>
+
+    <string name="gps">geo:44.435065,26.047774</string>
+    <string name="google_maps">com.google.android.apps.maps</string>
+
+    <string name="button_first_descendant_activity1">Go To Sibling Activity</string>
+    <string name="button_first_descendant_activity2">I Do Nothing</string>
 </resources>
