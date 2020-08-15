@@ -7,7 +7,8 @@
     tools:context=".FirstDescendantActivity">
 
     <Button
-        android:id="@+id/button_first_descendent_activity"
+        android:id="@+id/button_first_descendent_activity1"
+        style="@style/ButtonsFirstDescendantActivity"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -17,4 +18,15 @@
         android:text="@string/button_first_descendant_activity1"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_first_descendent_activity2"
+        style="@style/ButtonsFirstDescendantActivity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="32dp"
+        android:text="@string/button_first_descendant_activity2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_first_descendent_activity1" />
 </android.support.constraint.ConstraintLayout>
