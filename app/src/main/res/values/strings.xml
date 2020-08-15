@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Workshop Android</string>
+
+    <string name="radio_button1_main_activity">First RB</string>
+    <string name="radio_button2_main_activity">Second RB</string>
+    <string name="radio_button3_main_activity">Third RB</string>
+
+    <string name="checkbox1_main_activity">First CB</string>
+    <string name="checkbox2_main_activity">Second CB</string>
+    
+    <string name="button_main_activity">Save</string>
+    
+    <string name="snackbar_message">Hello world using a Snackbar!</string>
 </resources>
