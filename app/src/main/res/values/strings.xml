@@ -4,7 +4,7 @@
     <string name="menu_item1">Information</string>
     <string name="menu_item2">Toast</string>
 
-    <string name="options_menu_message">Hello world from the options menu</string>
+    <string name="options_menu_message">Hello world from the options menu!</string>
 
     <string name="alert_dialog_main_activity_ok">Ok</string>
     <string name="alert_dialog_main_activity_cancel">Cancel</string>
