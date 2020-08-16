@@ -40,4 +40,17 @@
     <string name="image_view_description_second_descendant_activity">This is a description of an image</string>
 
     <string name="toast_message">Click!</string>
+
+    <string-array name="recycler_view_items_second_descendant_activity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
 </resources>
